@@ -1,4 +1,4 @@
-# flutter_crud
+# Contact List
 
 A little Flutter project.
 
